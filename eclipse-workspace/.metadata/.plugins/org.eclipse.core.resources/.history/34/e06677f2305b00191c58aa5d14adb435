@@ -1,0 +1,28 @@
+package oop;
+
+public class ConcreateCar implements InterfaceCar {
+	//impletement -- interface
+	//extend -- abstract class
+	public static void main (String [] args) {
+		
+	}
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void move() {
+		System.out.println("this is my move");
+		// TODO Auto-generated method stub
+		
+	}
+}

@@ -1,0 +1,26 @@
+package Practice;
+public class Car {
+
+	int vin = (2);
+	int id = (3);
+	int year = (4);
+	 int total = vin+year;
+	 int multiply = vin*year;
+	 int unknown = vin*id+year*total; 
+	 public Car() {
+		 
+	 }
+	 public Car(int vin) {
+		 
+	 }
+	
+
+	}
+
+
+
+	
+	
+	
+
+

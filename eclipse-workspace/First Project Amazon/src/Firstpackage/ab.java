@@ -1,0 +1,45 @@
+package Firstpackage;
+
+public class ab {
+
+	public static void main(String[] args) {
+		int a= 12;
+		int b= 12;
+		int c=14;
+		int d=11;
+		
+		
+		//if a = b
+		//print a is equal to b
+		if(a ==b)
+			//System.out.println("a is equal to b");
+		
+		
+		//if a is not = b
+		//print a is not equal to b
+		
+		if(c !=d)
+			//System.out.println("c is not equal to b");
+		
+		//if a is greater than b
+		//print a is greater than b
+		
+		if(c<b);
+			System.out.println("a is greater than b");
+			
+			
+		//if a = b
+		//print a is equal to b
+		//else if a is not = b
+		//print a is not equal to b
+		
+			if(a ==b) {
+				System.out.println("a is equal to b");
+	}else {
+			System.out.println("a is not equal to b");
+		}
+	}
+
+	}
+
+

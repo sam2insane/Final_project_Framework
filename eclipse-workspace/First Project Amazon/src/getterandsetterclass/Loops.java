@@ -19,8 +19,10 @@ public class Loops {
 			//	num++;
 	//		}while(num>20);
 			
+		
 			for(int i =10 ; i < 12 ; i++){
 				System.out.println("this is for loops"+i);
+				
 			}
 		}
 	

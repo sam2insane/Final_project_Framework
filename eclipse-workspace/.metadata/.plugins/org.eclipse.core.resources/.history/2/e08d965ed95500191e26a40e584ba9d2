@@ -1,0 +1,14 @@
+package Practice;
+
+public class Execution {
+	
+		Car refvar = new Car(); 
+		System.out.println(refvar.unknown);
+		System.out.println(refvar.multiply);
+
+	}}
+
+
+
+
+	

@@ -1,0 +1,12 @@
+package Practice;
+
+public class Car {
+	
+	
+	int vin;
+	String id;
+	String year
+	
+	
+
+}

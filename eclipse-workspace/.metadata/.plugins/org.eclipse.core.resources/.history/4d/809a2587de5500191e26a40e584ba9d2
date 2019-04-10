@@ -1,0 +1,32 @@
+package Practice;
+public class Car {
+
+	int vin = (2);
+	int id = (3);
+	int nayem = (4);
+	 int total = vin+nayem;
+	 int multiply = vin*nayem;
+	 int unknown = vin*id+nayem*total;
+	  public Car() {
+		 
+	 }
+	 public Car(int vin, int id) {
+		 this.vin=vin;
+		 this.id=id;
+		 System.out.println(vin+id);
+		 public Car() {
+			 
+		 }
+		 public Car(int year, int )
+		 
+	 }
+	
+}
+
+
+
+	
+	
+	
+
+

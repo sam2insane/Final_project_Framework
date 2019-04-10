@@ -1,0 +1,20 @@
+package getterandsetterclass;
+
+import javax.net.ssl.SSLEngineResult.Status;
+
+public class Loops {
+	
+	public static void main(Status [] args) {
+		
+		// while loop, do while loop, for loop, for each loop
+		
+		
+		//while loop
+		int num = 10;
+		while(num<20) {
+			System.out.println("this is while loop");
+		}
+	
+
+}
+}

@@ -1,0 +1,23 @@
+package Practice;
+
+public class Car {
+	public static void main (String [] args) {
+	
+	int vin = (2321);
+	int id = (1234);
+	int year = (2021);
+	 int total = vin+year;
+	 int multiply = vin*year;
+	 int unknown = vin*id+(year*total);
+	 
+	System.out.println(unknown);
+	
+	
+	}
+	
+	
+	
+	
+	
+
+}

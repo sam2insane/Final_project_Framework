@@ -1,0 +1,8 @@
+package Practice;
+
+public class Execution {
+	public static void main (string [] args) {
+		Car refvar = new Car(); 
+		System.out.println(refvar.vin+" "+refvar.year);
+	}
+}

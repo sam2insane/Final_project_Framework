@@ -1,0 +1,12 @@
+package Practice;
+
+public class mobilee {
+	
+	
+	int vin;
+	String id;
+	String year
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package corejava;
+
+public class calc {
+	public static void main(String [] args) {
+		int hourlywage = 15;
+		int hourworked = 40;
+		
+	System.out.println(hourlywage);
+		
+	}
+}

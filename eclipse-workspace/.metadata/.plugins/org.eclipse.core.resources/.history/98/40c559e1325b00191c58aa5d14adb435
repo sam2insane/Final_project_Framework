@@ -1,0 +1,39 @@
+package oop;
+
+public class ConcreateCar extends AbstractCar implements InterfaceCar, InterfaceCar2 {
+	//impletement -- interface
+	//extend -- abstract class
+	//extend first, imple
+	public static void main (String [] args) {
+		
+	}
+
+	@Override
+	public void start() {
+		System.out.println("Starting");
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void stop() {
+		System.out.println("SUCKMYDICK");
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void move() {
+		System.out.println("this is my move");
+		autoBreak();
+		// TODO Auto-generated method stub
+		}
+
+	@Override
+	public void light() {
+		system.out.println("light on");
+		// TODO Auto-generated method stub
+		
+	}
+
+}

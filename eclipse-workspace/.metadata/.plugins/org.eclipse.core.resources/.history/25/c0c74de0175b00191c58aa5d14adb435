@@ -1,0 +1,20 @@
+package Firstpackage;
+
+public class car {
+	public static void main(String [] args) {
+		String me = " a billionere";
+		String me1 = "trillionere";
+		if (me1 == "trillionere") {
+			System.out.println("buy mercedes and private jet");
+		if (me1 == "trillionere") 
+			System.out.println("buy bmw");
+		}else {
+			System.out.println("buy honda");
+		
+		}
+		
+		
+	}}
+	
+
+	

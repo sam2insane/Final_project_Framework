@@ -1,0 +1,19 @@
+package Practice;
+
+public class Car {
+	public static void main (String [] args) {
+	
+	int vin = (2321);
+	String id = ("1234");
+	String year = ("2021");
+	
+	System.out.println(vin);
+	
+	}
+	
+	
+	
+	
+	
+
+}

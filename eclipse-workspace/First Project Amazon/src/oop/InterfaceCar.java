@@ -1,0 +1,14 @@
+package oop;
+
+public interface InterfaceCar {
+	// in the interface all the methods are abstract means no implementation
+	//final variable can't be changed, method can't be overridden, 
+	//class can't be inherited
+	
+	public void start();
+	public void stop();
+	public void move(); 
+	
+	//interface is a collection of multiple abstract method
+
+}

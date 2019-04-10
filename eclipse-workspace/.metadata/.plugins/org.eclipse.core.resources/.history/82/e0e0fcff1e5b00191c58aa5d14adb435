@@ -1,0 +1,10 @@
+package corejava;
+
+public class calc {
+	public static void main(String [] args) {
+		String	Lastname = "opu";
+		String	Firstname= "Ahmed";
+		System.out.println(Lastname+""+Firstname);
+				
+	}
+}
